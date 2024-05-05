@@ -4,18 +4,9 @@
 	z-index: 1;
 }
 
-/* Для маленьких экранов (ширина до 1023px) */
 @media only screen and (max-width: 1023px) {
 	.header {
 		padding-top: 18px;
 		margin-bottom: -57px;
 	}
-}
-/* Для очень маленьких экранов (ширина до 767px) */
-@media only screen and (max-width: 767px) {
-/* Ваш стиль здесь */
-}
-/* Для крайне маленьких экранов (ширина до 374px) */
-@media only screen and (max-width: 374px) {
-/* Ваш стиль здесь */
 }
